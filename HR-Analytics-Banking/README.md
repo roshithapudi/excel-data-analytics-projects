@@ -128,14 +128,16 @@ The dashboard enables HR professionals to identify key factors influencing emplo
 
 ## 📁 Project Files
 
-- 📄 HR Analytics Bank Project.xlsx
-- 📄 HR-Analytics Bank Report.docx
-- 📄 HR Analytics for Banking Sector.pptx
-- 🖼️ Dashboard.png
-- 🖼️ Pivot_Summary.png
-- 🖼️ Raw_Data.png
-- 🖼️ Key_Insights_Recommendations.png
-- 🖼️ Risk_vs_Attention.png
+This repository includes the complete project deliverables:
+
+- 📊 **HR Analytics Bank Project.xlsx** – Excel workbook containing raw data, data cleaning, pivot tables, and the interactive dashboard.
+- 📑 **HR-Analytics Bank Report.docx** – Detailed project report explaining the analysis, methodology, findings, and recommendations.
+- 📽️ **HR Analytics for Banking Sector.pptx** – Project presentation summarizing the dashboard, insights, and business recommendations.
+- 🖼️ **Dashboard.png** – Final interactive HR Analytics dashboard.
+- 📊 **Pivot_Summary.png** – Pivot Tables used for analysis.
+- 📄 **Raw_Data.png** – Dataset used for the project.
+- 💡 **Key_Insights_Recommendations.png** – Business insights and recommendations derived from the analysis.
+- ⚠️ **Risk_vs_Attention.png** – Risk vs Attrition analysis.
 
 ---
 
